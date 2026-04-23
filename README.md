@@ -1,6 +1,6 @@
 # 👋 Gabriel Renato
 
-🎓 Software Engineering student at **INATEL (7º semestre)**
+🎓 Software Engineering student at **INATEL**
 🎓 Técnico em Desenvolvimento de Sistemas pela **ETE FMC**
 
 💡 Building real-world applications with focus on **clean code**, **best practices**, and **scalable solutions**.
@@ -9,7 +9,6 @@
 
 ## 🚀 About me
 
-* 📱 Working with **mobile and backend development**
 * ⚛️ Experience with modern stacks and real-world projects
 * 🧪 Interested in **TDD** and software quality
 * 🔄 Familiar with **GitFlow, code review e metodologias ágeis**
@@ -50,9 +49,9 @@
 
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=SEU_USERNAME\&show_icons=true\&theme=tokyonight)
+![Stats](https://github-readme-stats.vercel.app/api?username=GabrielRenat0\&show_icons=true\&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME\&layout=compact\&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielRenat0\&layout=compact\&theme=tokyonight)
 
 </div>
 
@@ -60,11 +59,11 @@
 
 ## 📫 Contact
 
-* 💼 LinkedIn: (seu link)
-* 📧 Email: (seu email)
+* 💼 LinkedIn: (https://www.linkedin.com/in/gabriel-renato-446bab252/)
+* 📧 Email: (gabrielrenatodev@gmail.com)
 
 ---
 
 ## ⚡ Focus
 
-> Sempre evoluindo como desenvolvedor e buscando criar soluções eficientes, escaláveis e bem estruturadas.
+> Always evolving as a developer and striving to create efficient, scalable, and well-structured solutions.
