@@ -1,7 +1,7 @@
 # 👋 Gabriel Renato
 
 🎓 Software Engineering student at **INATEL**
-🎓 Técnico em Desenvolvimento de Sistemas pela **ETE FMC**
+🎓 TSystems Development Technician from **ETE FMC**
 
 💡 Building real-world applications with focus on **clean code**, **best practices**, and **scalable solutions**.
 
