@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Gabriel Renato!
 
-<!--
-**GabrielRenat0/GabrielRenat0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Formado em Técnico em Desenvolvimento de Sistemas pela **ETE FMC**  
+📚 Atualmente cursando **Engenharia de Software no INATEL**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Sobre mim
+
+Sou apaixonado por tecnologia, desenvolvimento de software e resolução de problemas.  
+Tenho experiência com diversas linguagens e estou sempre buscando evoluir minhas habilidades e aprender novas tecnologias.
+
+---
+
+## 💻 Tecnologias e Linguagens
+
+```bash
+C | C++ | C# | Java  
+JavaScript | TypeScript  
+HTML | CSS  
+Python
